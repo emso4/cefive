@@ -1,0 +1,10 @@
+Github
+
+Cd desktop  Bureau
+Mkdir cefive  créer repertoire
+
+Git init  initialise le dossier 
+Git status  type de fichier)
+Git add*.      (en attente de sauvegarde du fichier)
+Commit -m ‘’1 ere version config R2”    (le fichier est à présent sauvegardé)
+
